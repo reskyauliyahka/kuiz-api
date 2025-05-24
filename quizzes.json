@@ -1,0 +1,422 @@
+[
+  {
+    "image": "https://pin.it/6RIIZqzT9",
+    "title": "Kuiz Matematika Dasar 1",
+    "category": "Matematika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Mudah",
+    "questions": [
+      {
+        "question": "Berapakah hasil dari 7 × 8?",
+        "options": ["54", "56", "58", "60"],
+        "answer": "56"
+      },
+      {
+        "question": "Apa akar kuadrat dari 81?",
+        "options": ["7", "8", "9", "10"],
+        "answer": "9"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/5fpU5w5rd",
+    "title": "Kuiz Fisika Dasar 1",
+    "category": "Fisika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa satuan SI untuk gaya?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "question": "Apa hukum Newton yang menyatakan bahwa benda akan tetap diam atau bergerak lurus beraturan kecuali ada gaya yang bekerja padanya?",
+        "options": ["Hukum I Newton", "Hukum II Newton", "Hukum III Newton", "Hukum Gravitasi"],
+        "answer": "Hukum I Newton"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/5YeCXOVfx",
+    "title": "Kuiz Bahasa Indonesia 1",
+    "category": "Bahasa Indonesia",
+    "type": "Pilihan Ganda",
+    "difficulty": "Mudah",
+    "questions": [
+      {
+        "question": "Apa sinonim dari kata 'cepat'?",
+        "options": ["Lambat", "Kencang", "Pelan", "Dingin"],
+        "answer": "Kencang"
+      },
+      {
+        "question": "Kalimat manakah yang merupakan kalimat tanya?",
+        "options": [
+          "Dia sedang belajar.",
+          "Apakah kamu sudah makan?",
+          "Hari ini cerah.",
+          "Saya suka buku ini."
+        ],
+        "answer": "Apakah kamu sudah makan?"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/1JrV3Z8O9",
+    "title": "Kuiz Pemrograman Dasar 1",
+    "category": "Pemrograman",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Bahasa pemrograman mana yang dikenal sebagai bahasa scripting di web?",
+        "options": ["Python", "JavaScript", "C++", "Java"],
+        "answer": "JavaScript"
+      },
+      {
+        "question": "Apa output dari kode berikut?\n\nconsole.log(2 + '2');",
+        "options": ["4", "'4'", "'22'", "Error"],
+        "answer": "'22'"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/5DEjFL8Sk",
+    "title": "Kuiz Matematika Lanjutan",
+    "category": "Matematika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Jika x + 5 = 12, berapakah nilai x?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Berapa hasil dari 15 ÷ 3?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "5"
+      },
+      {
+        "question": "Jika sudut segitiga adalah 90°, 45°, dan 45°, berapa jumlah ketiga sudut itu?",
+        "options": ["180°", "90°", "45°", "270°"],
+        "answer": "180°"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/3UGZxHZpm",
+    "title": "Kuiz Fisika Energi",
+    "category": "Fisika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Energi kinetik tergantung pada dua variabel utama, yaitu massa dan…?",
+        "options": ["Kecepatan", "Volume", "Tekanan", "Suhu"],
+        "answer": "Kecepatan"
+      },
+      {
+        "question": "Apa nama alat yang digunakan untuk mengukur suhu?",
+        "options": ["Barometer", "Termometer", "Hidrometer", "Anemometer"],
+        "answer": "Termometer"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/5cRK5LDj0",
+    "title": "Kuiz Bahasa Indonesia Lanjutan",
+    "category": "Bahasa Indonesia",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa arti kata 'bersahaja'?",
+        "options": ["Sederhana", "Mewah", "Rumit", "Sulit"],
+        "answer": "Sederhana"
+      },
+      {
+        "question": "Manakah kalimat yang menggunakan kata kerja pasif?",
+        "options": [
+          "Ibu memasak nasi.",
+          "Nasi dimasak oleh ibu.",
+          "Saya membaca buku.",
+          "Mereka bermain bola."
+        ],
+        "answer": "Nasi dimasak oleh ibu."
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/1gjpoIBUE",
+    "title": "Kuiz Pemrograman Lanjutan",
+    "category": "Pemrograman",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Fungsi apa yang digunakan untuk menampilkan output di Python?",
+        "options": ["print()", "echo()", "console.log()", "printf()"],
+        "answer": "print()"
+      },
+      {
+        "question": "Apa kepanjangan dari HTML?",
+        "options": [
+          "Hyper Trainer Markup Language",
+          "Hyper Text Markup Language",
+          "Hyper Text Makeup Language",
+          "Hyperlink Text Markup Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/4p3V80Gwa",
+    "title": "Kuiz Matematika Cepat",
+    "category": "Matematika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Mudah",
+    "questions": [
+      {
+        "question": "Berapa hasil dari 12 + 15?",
+        "options": ["25", "27", "28", "30"],
+        "answer": "27"
+      },
+      {
+        "question": "Apa hasil dari 5²?",
+        "options": ["10", "20", "25", "30"],
+        "answer": "25"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/MzrBtr9Qw",
+    "title": "Kuiz Fisika Gerak",
+    "category": "Fisika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa simbol dari kecepatan dalam rumus gerak lurus?",
+        "options": ["v", "a", "s", "t"],
+        "answer": "v"
+      },
+      {
+        "question": "Apa hukum Newton III?",
+        "options": [
+          "Aksi dan reaksi",
+          "Gaya sama dengan massa kali percepatan",
+          "Benda diam tetap diam",
+          "Gravitasi universal"
+        ],
+        "answer": "Aksi dan reaksi"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/6LRH8EXFY",
+    "title": "Kuiz Bahasa Indonesia Cepat",
+    "category": "Bahasa Indonesia",
+    "type": "Pilihan Ganda",
+    "difficulty": "Mudah",
+    "questions": [
+      {
+        "question": "Apa lawan kata dari kata 'besar'?",
+        "options": ["Kecil", "Tinggi", "Panjang", "Lebar"],
+        "answer": "Kecil"
+      },
+      {
+        "question": "Kalimat manakah yang merupakan kalimat berita?",
+        "options": [
+          "Apakah kamu datang?",
+          "Saya pergi ke pasar.",
+          "Berapa harga ini?",
+          "Tolong bantu saya."
+        ],
+        "answer": "Saya pergi ke pasar."
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/4Aw77gL1X",
+    "title": "Kuiz Pemrograman JavaScript",
+    "category": "Pemrograman",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa tipe data Boolean di JavaScript?",
+        "options": ["true atau false", "0 atau 1", "String", "Number"],
+        "answer": "true atau false"
+      },
+      {
+        "question": "Bagaimana cara membuat komentar satu baris di JavaScript?",
+        "options": ["// komentar", "/* komentar */", "# komentar", "<!-- komentar -->"],
+        "answer": "// komentar"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/4dNRDHali",
+    "title": "Kuiz Matematika Pecahan",
+    "category": "Matematika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Berapakah hasil dari 1/2 + 1/4?",
+        "options": ["3/4", "1/2", "2/4", "1/4"],
+        "answer": "3/4"
+      },
+      {
+        "question": "Jika 3/5 dari sebuah angka adalah 12, berapa angka tersebut?",
+        "options": ["15", "18", "20", "25"],
+        "answer": "20"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/7IZ5iBreZ",
+    "title": "Kuiz Fisika Energi & Daya",
+    "category": "Fisika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Satuan energi adalah…",
+        "options": ["Joule", "Newton", "Watt", "Pascal"],
+        "answer": "Joule"
+      },
+      {
+        "question": "Satuan daya adalah…",
+        "options": ["Watt", "Joule", "Newton", "Volt"],
+        "answer": "Watt"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/GA1HJBqte",
+    "title": "Kuiz Bahasa Indonesia Makna Kata",
+    "category": "Bahasa Indonesia",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa arti kata 'produktif'?",
+        "options": ["Banyak menghasilkan", "Santai", "Lambat", "Mudah"],
+        "answer": "Banyak menghasilkan"
+      },
+      {
+        "question": "Apa arti kata 'inovasi'?",
+        "options": ["Pembaharuan", "Kesalahan", "Pengulangan", "Kelemahan"],
+        "answer": "Pembaharuan"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/42SlF85ta",
+    "title": "Kuiz Pemrograman Python",
+    "category": "Pemrograman",
+    "type": "Pilihan Ganda",
+    "difficulty": "Mudah",
+    "questions": [
+      {
+        "question": "Bagaimana cara menulis komentar di Python?",
+        "options": ["#", "//", "/* */", "<!-- -->"],
+        "answer": "#"
+      },
+      {
+        "question": "Fungsi untuk input dari user di Python adalah…",
+        "options": ["input()", "print()", "scan()", "read()"],
+        "answer": "input()"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/7vKcNUv4q",
+    "title": "Kuiz Matematika Geometri",
+    "category": "Matematika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Luas persegi dengan sisi 8 cm adalah…",
+        "options": ["64 cm²", "32 cm²", "16 cm²", "8 cm²"],
+        "answer": "64 cm²"
+      },
+      {
+        "question": "Keliling lingkaran dengan jari-jari 7 cm adalah… (π=22/7)",
+        "options": ["44 cm", "49 cm", "38 cm", "14 cm"],
+        "answer": "44 cm"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/7qjnSjSW9",
+    "title": "Kuiz Fisika Optik",
+    "category": "Fisika",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sedang",
+    "questions": [
+      {
+        "question": "Apa nama lensa yang membuat bayangan nyata dan terbalik?",
+        "options": ["Lensa cembung", "Lensa cekung", "Cermin datar", "Cermin cembung"],
+        "answer": "Lensa cembung"
+      },
+      {
+        "question": "Apa hukum pembiasan cahaya?",
+        "options": ["Hukum Snellius", "Hukum Newton", "Hukum Pascal", "Hukum Archimedes"],
+        "answer": "Hukum Snellius"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/1HvxA672E",
+    "title": "Kuiz Bahasa Indonesia Tata Bahasa",
+    "category": "Bahasa Indonesia",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Kalimat berikut yang menggunakan kata keterangan waktu adalah…",
+        "options": [
+          "Saya pergi ke pasar kemarin.",
+          "Dia sedang belajar.",
+          "Ibu memasak nasi.",
+          "Mereka bermain bola."
+        ],
+        "answer": "Saya pergi ke pasar kemarin."
+      },
+      {
+        "question": "Kata 'berlari' termasuk kata jenis apa?",
+        "options": ["Kata kerja", "Kata benda", "Kata sifat", "Kata keterangan"],
+        "answer": "Kata kerja"
+      }
+    ]
+  },
+  {
+    "image": "https://pin.it/7qsqX2sxa",
+    "title": "Kuiz Pemrograman Struktur Data",
+    "category": "Pemrograman",
+    "type": "Pilihan Ganda",
+    "difficulty": "Sulit",
+    "questions": [
+      {
+        "question": "Struktur data yang bekerja dengan prinsip FIFO adalah…",
+        "options": ["Queue", "Stack", "Array", "Linked List"],
+        "answer": "Queue"
+      },
+      {
+        "question": "Apa itu rekursi dalam pemrograman?",
+        "options": [
+          "Fungsi yang memanggil dirinya sendiri",
+          "Perulangan tanpa akhir",
+          "Variabel sementara",
+          "Fungsi untuk input"
+        ],
+        "answer": "Fungsi yang memanggil dirinya sendiri"
+      }
+    ]
+  }
+]
